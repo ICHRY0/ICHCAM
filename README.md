@@ -33,14 +33,14 @@ apt-get -y install php openssh git wget
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/techchipnet/CamPhish
-cd CamPhish
-bash camphish.sh
+git clone https://github.com/ICHRY0/ICHCAM.git
+cd ICHCAM
+bash ICHCAM.sh
 ```
 
 ## Change Log:
 
-<p><b>Version: 1.7:</b> Fix and add support</p>
+<p><b>Version: 1.0:</b> Fix and add support</p>
 <ul>
   <li>fixed: termux failed to get home directory</li>
   <li>Add support for Apple sillicon (M1/M2/M3 ARM64)</li>
