@@ -51,6 +51,6 @@ bash ICHCAM.sh
 <p><b>Version: 1.4:</b> Ngrok authtoken update</p>
 <p><b>Version: 1.3:</b> Fix ngrok direct link</p>
 
-#### For More Video subcribe <a href="http://youtube.com/ichry0">TechChip YouTube Channel</a>
+#### For More Video subcribe <a href="http://youtube.com/ichry0">ichry0 YouTube Channel</a>
 <p>ICHCAM is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
-<p>ICHCAM is inspired by https://github.com/ichry0/ Big thanks to @thelinuxchoice</p>
+<p>ICHCAM is inspired by https://github.com/ichry0/ Big thanks to @arpan bhaiya</p>
