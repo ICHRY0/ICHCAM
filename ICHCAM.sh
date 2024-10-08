@@ -7,11 +7,12 @@ trap 'printf "\n";stop' 2
 
 banner() {
 clear
-printf "\e[1;92m  SIMPLE \e[0m\e[1;77m.   AND BEST TOOL CAMRA HACKING  \e[0m\n"
-printf "\e[1;92m YouTube \e[0m\e[1;77m.          ICHRY0.       \e[0m\n"
-printf "\e[1;92m Instagram \e[0m\e[1;77m.        ICHRY0.         \e[0m\n"
-printf "\e[1;92m GitHub. \e[0m\e[1;77m.           ICHRY0.        \e[0m\n"
-printf "\e[1;92m Thish Tool  \e[0m\e[1;77m. Educational PURPOSE.  |\e[0m\n"
+printf "\e[1;92m ANOTHER  \e[0m\e[1;77m RY & ARPAN BHAIYA \e[0m\n"
+printf "\e[1;92m  ABOUT \e[0m\e[1;77m.   CAMRA HACKING TOOL BEST POWERFUL TOOL\e[0m\n"
+printf "\e[1;92m YouTube \e[0m\e[1;77m.          ICHRY0       \e[0m\n"
+printf "\e[1;92m Instagram \e[0m\e[1;77m.        ICHRY0       \e[0m\n"
+printf "\e[1;92m GitHub. \e[0m\e[1;77m.          ICHRY0       \e[0m\n"
+printf "\e[1;92m Tool \e[0m\e[1;77m. This Tool Educational PURPOSE.  |\e[0m\n"
 printf " \e[1;93m ICHCAM Ver 1.0 \e[0m \n"
 printf " \e[1;77m  | youtube.com/ICHRY0 \e[0m \n"
 
