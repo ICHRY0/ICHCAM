@@ -7,12 +7,18 @@ trap 'printf "\n";stop' 2
 
 banner() {
 clear
-printf "\e[1;92m ANOTHER  \e[0m\e[1;77m RY & ARPAN BHAIYA \e[0m\n"
-printf "\e[1;92m  ABOUT \e[0m\e[1;77m.   CAMRA HACKING TOOL BEST POWERFUL TOOL\e[0m\n"
-printf "\e[1;92m YouTube \e[0m\e[1;77m.          ICHRY0       \e[0m\n"
-printf "\e[1;92m Instagram \e[0m\e[1;77m.        ICHRY0       \e[0m\n"
-printf "\e[1;92m GitHub. \e[0m\e[1;77m.          ICHRY0       \e[0m\n"
-printf "\e[1;92m Tool \e[0m\e[1;77m. This Tool Educational PURPOSE.  |\e[0m\n"
+printf "\e[1;92m  ___ ____ _   _  ____    _    __  __ \e[0m \n"
+printf "\e[1;92m |_ _/ ___| | | |/ ___|  / \  |  \/  | \e[0m \n"
+printf "\e[1;92m | | |   | |_| | |     / _ \ | |\/| | \e[0m \n"
+printf "\e[1;92m  | | |___|  _  | |___ / ___ \| |  | | \e[0m \n"
+printf "\e[1;92m |___\____|_| |_|\____/_/   \_\_|  |_| \e[0m \n"
+
+printf "\e[1;92m ANOTHER  \e[0m\e[1;77m         RY & ARPAN BHAIYA \e[0m\n"
+printf "\e[1;92m  ABOUT \e[0m\e[1;77m           CAMRA HACKING TOOL BEST POWERFUL TOOL\e[0m\n"
+printf "\e[1;92m YouTube \e[0m\e[1;77m          ICHRY0       \e[0m\n"
+printf "\e[1;92m Instagram \e[0m\e[1;77m        ICHRY0       \e[0m\n"
+printf "\e[1;92m GitHub. \e[0m\e[1;77m          ICHRY0       \e[0m\n"
+printf "\e[1;92m Tool \e[0m\e[1;77m             This Tool Educational PURPOSE.  |\e[0m\n"
 printf " \e[1;93m ICHCAM Ver 1.0 \e[0m \n"
 printf " \e[1;77m  | youtube.com/ICHRY0 \e[0m \n"
 
